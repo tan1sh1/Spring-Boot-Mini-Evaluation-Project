@@ -20,6 +20,7 @@ POST http://localhost:8080/feedback \
 "email": "tanishmhatre1617@gmail.com",
 "message": "Hello World"
 }
+<img width="1509" height="842" alt="image" src="https://github.com/user-attachments/assets/bce5973c-9606-4e34-9d95-28cf8b619d5e" />
 
 
 2.To view All Feedback 
@@ -47,8 +48,12 @@ GET http://localhost:8080/feedback
 "message": "hello world",
 "createdAt": "2025-07-25T11:43:59.55129"
 }
+<img width="1552" height="910" alt="image" src="https://github.com/user-attachments/assets/007aa09c-ab7d-45ae-9863-afb3a6701366" />
+
 
 >How to run tests
 
 test file location : src/test/java/com/example/feedback/service/FeedbackServiceTest.java
 run command : mvn test
+<img width="1093" height="157" alt="image" src="https://github.com/user-attachments/assets/b08a69a6-6f39-4217-a3c9-1d7a7ca8b356" />
+
