@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.apifeedback.service.FeedbackServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.397 s -- in com.example.apifeedback.service.FeedbackServiceTest
